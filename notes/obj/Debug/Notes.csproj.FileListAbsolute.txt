@@ -1,0 +1,12 @@
+d:\app\my\Notes\Notes\bin\Debug\Notes.exe.config
+d:\app\my\Notes\Notes\bin\Debug\Notes.exe
+d:\app\my\Notes\Notes\bin\Debug\Notes.pdb
+d:\app\my\Notes\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+d:\app\my\Notes\Notes\obj\Debug\Notes.exe
+d:\app\my\Notes\Notes\obj\Debug\Notes.pdb
+C:\app\my\Notes\Notes\bin\Debug\Notes.exe.config
+C:\app\my\Notes\Notes\obj\Debug\Notes.exe
+C:\app\my\Notes\Notes\obj\Debug\Notes.pdb
+C:\app\my\Notes\Notes\bin\Debug\Notes.exe
+C:\app\my\Notes\Notes\bin\Debug\Notes.pdb
+C:\app\my\Notes\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
